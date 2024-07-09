@@ -1,2 +1,3 @@
 click
 pytest  # is used in python_test_utils targets
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
